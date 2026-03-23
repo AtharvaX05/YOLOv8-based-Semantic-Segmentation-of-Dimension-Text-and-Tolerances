@@ -146,7 +146,7 @@ Generated: 2026-03-24 10:30:45
 
 ### Example Detection Result:
 
-![Sample Annotated Output](output5/annotated_result.jpg)
+![Sample Annotated Output](output/annotated_result.jpg)
 
 <br>
 <br>
