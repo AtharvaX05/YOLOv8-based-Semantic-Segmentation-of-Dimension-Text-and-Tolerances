@@ -57,5 +57,3 @@ python testocr.py
 <p align="center">
   <img src="output/annotated_result.jpg" width="600"/>
 </p>
-
-Use the space above to add additional examples or side-by-side comparisons.
