@@ -4,8 +4,6 @@
 *.weights
 
 # Output and runtime directories
-output*/
-runs/
 __pycache__/
 .pytest_cache/
 
@@ -25,5 +23,3 @@ Thumbs.db
 *.swp
 *.swo
 
-# Data
-dataset-views/images/
