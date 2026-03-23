@@ -54,8 +54,7 @@ python testocr.py
 
 ## Sample Annotated Image 🧪
 
-![Sample Annotated Output](output/annotated_result.jpg)
-
+![The sample Annotated Image](output/annotated_result.jpg)
 <br>
 <br>
 
