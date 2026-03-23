@@ -1,0 +1,29 @@
+# Model weights
+*.pt
+*.pth
+*.weights
+
+# Output and runtime directories
+output*/
+runs/
+__pycache__/
+.pytest_cache/
+
+# Python environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+dataset-views/images/
